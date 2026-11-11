@@ -2,7 +2,7 @@
 
 A personal cybersecurity learning project developed by me while studying Bash scripting and offensive security.
 
-memcache Enumerator is a lightweight Bash script designed to explore and enumerate memcache services during authorized security assessments and laboratory exercises.
+Memcache Enumerator is a lightweight Bash script designed to explore and enumerate memcache services during authorized security assessments and laboratory exercises.
 
 The project started as a practical way to learn Bash scripting by building a useful tool rather than simply studying commands and syntax in isolation.
 
